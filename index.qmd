@@ -1,0 +1,187 @@
+---
+title: "Talk Title here"
+subtitle: "PALiSaDS PRISM 2025"
+author: "Samantha Shanny-Csik"
+format: 
+  revealjs:
+    #   - styles.scss
+    slide-number: true
+    highlight-style: a11y
+    # theme: 
+editor_options: 
+  chunk_output_type: console
+---
+
+- `install.packages("community")` - the most important library in your career's script
+- `echo Hello, world!` - finding and building your data science community 
+- `return(community)` - unexpected outputs when we learn together
+
+```{r}
+learning_journey <- function(you, friends, data_sci) {
+  community <- you + friends + data_sci
+  return(community)
+}
+```
+
+---
+
+- thank you PALiSaDS and thank you participants - I'm so grateful to be here. I wouldn't have believed you if you told me a few years ago that I'd be hanging out with you all here today
+- I'd like to start off with a bit about myself, separate from my career journey because I think those are the most interesting parts of me :)
+  - I'm a millennial, which means I have two cats and a dog that are the lights of my life
+  - Hiking is my favorite past time -- it might be the east coast in me, but I can be a bit high strung and anxious. Being in nature has been my greatest therapy
+  - 
+  
+<!-- - i suppose I'll start with who I am; I think the most interesting things about me are those that are separate from my career identity; first and foremost, I'm just a normal person, like any of you! some things about me:  -->
+<!--   - I have two cats and a dog -->
+<!--   - a husband -->
+<!--   - hiking is my favorite past time - might be the east coast in me, but I can be a bit high strung and anxious. hiking helps1 -->
+  - I don't know much about cars, but I'm learning
+  
+---
+
+- if you had asked me even just a few years ago, there's no way I would have guessed that I'd be standing here in front of you today
+- my journey was a bit winding (use art here?) and oftentimes, I had a lot of anxiety around where I would end up
+- i was the first in my family to pursue graduate school and had no idea what I was doing or why
+- i wanted to be in the field
+
+---
+
+- if I had to summarize the most important part of this journey, it would be "connection" and "community"
+- I am standing here today because of the communities and connections I've found along the way
+- and I know it can be scary to put yourself out there
+- so today, I want that to be our focus. we're not here to listen, we're here to build connections
+- this will be an interactive experience!
+- together, we'll explore a few different themes....tbd
+
+---
+
+- sharing when you don't know something well (Julie Lowndes talking about the `{here}` package)
+- grad school co-learning (An Bui)
+- RLadies(+), Central Coast Python, Central Coast R Users Group 
+- blogging
+  - strava map blog post 
+  - Danielle Navarro's great posts that have helped me a long my learning journey
+  - my blog post about openscapes
+- working in the open
+- linkedIn / Bluesky
+- TidyTuesday
+
+---
+
+Turn to someone near you and answer this: What’s one word that describes how you feel about your place in data science right now? 
+
+lonely, scary, confident
+
+---
+
+practice sharing something that you've learned but don't know a ton about!
+
+- working with a student who put generic data science interests at the forefront of his website; but really his background in X was what was most inspiring
+
+--- 
+
+---
+
+---
+
+✨ Updated Keynote Outline: "Install Community: The Most Important Package in Your Stack"
+Core thread: Self-learning isn’t solo learning—and your learning journey is valid, valuable, and made stronger through community.
+
+---
+
+🔓 1. Welcome & Warm-Up (5 min)
+Intro: who you are, where you are now (data science educator!), and the winding path that brought you here.
+
+Story hook: First R-Ladies SB meetup → Julie Lowndes presenting on here::here()—honest, collective learning in action.
+
+Lesson: You don’t have to be an expert to contribute to learning spaces.
+
+Interactive prompt: One word to describe how you feel about your place in data science right now.
+
+---
+
+🎭 2. Imposter Syndrome, Slow Learning & Self-Teaching (10 min)
+Story: You’ve always felt like a slow learner—concepts take a while to “click.” Seeing polished posts online can make you feel behind.
+
+BUT: “The skill I’m most proud of isn’t coding or stats—it’s my ability to teach myself new things. And I only got good at that by standing on the shoulders of people who blog, tweet, post, and share their learning journeys.”
+
+Blogs (like Danielle Navarro’s), tutorials, social media, generous strangers = your secret curriculum.
+
+Lesson: Self-learning is a community act.
+
+Interactive:
+
+Raise your hand if you’ve ever learned something from a blog post, tutorial, or YouTube video from a stranger online.
+
+Pair up: What’s a resource that really helped you learn something tricky?
+
+---
+
+🌱 3. Jump in Before You're “Ready” (10 min)
+Story: 3 months into R, you taught your first R-Ladies workshop. Terrifying—but also exhilarating and deeply formative.
+
+Lesson: Teaching is learning in disguise. And communities like R-Ladies make risk-taking safer.
+
+Interactive: Share a time you did something before you felt fully ready—and what came out of it.
+
+---
+
+🤝 4. Co-Learning is a Superpower (10 min)
+Story: Your weekly book club with An Bui to get through R for Data Science. Accountability buddies = magic.
+
+Lesson: You don’t need a syllabus—just a friend, a goal, and some snacks.
+
+Interactive brainstorm: What kind of co-learning structure could work for you?
+(Mini-pods, Discord, Slack channel, weekly meetup?)
+
+---
+
+🛣️ 5. Nonlinear Careers Are the Norm (5 min)
+Story: How you stumbled sideways into data science education—not the plan, but the perfect fit.
+
+Lesson: Your story doesn’t have to look like anyone else’s.
+
+Prompt: What’s one twist in your journey that led somewhere interesting?
+
+---
+
+🔧 6. From Learner to Community Builder (5 min)
+Story: You started out as a nervous attendee and ended up co-creating space for others—via workshops, mentoring, being visible online.
+
+Lesson: You don’t have to wait until you “arrive.” You can contribute now.
+
+Call to action: Write down 1 way you’ll keep learning in community—or help build one—after this program.
+
+---
+
+Alt 6. 
+
+Story 1: Your journey from learner to teacher:
+You began as a nervous attendee, stepped up to teach a workshop way earlier than felt “ready,” and found that giving back became part of how you learned.
+
+Story 2: Student website glow-up:
+“One student I worked with had filled his personal site with language like ‘I’m passionate about machine learning and big data’—but when we talked, it became clear that what really lit him up was environmental science and working with local communities. That passion was buried in the final paragraph of his About page.”
+→ You helped him re-center his real story: his background, values, and why he chose data science as a tool, not the end goal.
+
+Lesson: You don’t need to brand yourself like a LinkedIn bot.
+The more honestly you share who you are and what matters to you, the more likely you’ll find your people, your collaborators, and the work that actually fuels you.
+
+Interactive Prompt:
+Pull up your About page or think back to it: is your story—the real one—front and center?
+→ Pair and share: “What’s something not technical that’s guided your path into data science?”
+
+---
+
+💬 7. Closing Reflection (5 min)
+Recap key themes:
+
+Learning is slow, messy, and nonlinear.
+
+Self-teaching is powerful—and rarely done alone.
+
+Community makes you brave enough to keep going.
+
+Final note: “You already have what it takes. And you don’t have to do it alone.”
+
+Invite: What’s one thing you’re taking with you from today?
+
