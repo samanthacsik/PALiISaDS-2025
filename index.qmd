@@ -27,15 +27,18 @@ learning_journey <- function(you, friends, data_sci) {
 
 - thank you PALiSaDS and thank you participants - I'm so grateful to be here. I wouldn't have believed you if you told me a few years ago that I'd be hanging out with you all here today
 - I'd like to start off with a bit about myself, separate from my career journey because I think those are the most interesting parts of me :)
-  - I'm a millennial, which means I have two cats and a dog that are the lights of my life
+  - I have two cats and a dog that are the lights of my life
   - Hiking is my favorite past time -- it might be the east coast in me, but I can be a bit high strung and anxious. Being in nature has been my greatest therapy
-  - 
+  - My husband is really into cars, and 2 years ago, we acquired a non-operational 1990 Mariner Blue Mazda Miata. He's done a lot of the work, but I've played a supporting role and even helped drop the rear subframe to replace the fuel tank. Learned on YouTube.
+  - in many ways, his journey working on this Miata reminds me of my journey into the data sciences
+  
+  
+really great in undergrad (I knew how to study, I had a lot of confidence)
   
 <!-- - i suppose I'll start with who I am; I think the most interesting things about me are those that are separate from my career identity; first and foremost, I'm just a normal person, like any of you! some things about me:  -->
 <!--   - I have two cats and a dog -->
 <!--   - a husband -->
 <!--   - hiking is my favorite past time - might be the east coast in me, but I can be a bit high strung and anxious. hiking helps1 -->
-  - I don't know much about cars, but I'm learning
   
 ---
 
@@ -184,4 +187,39 @@ Community makes you brave enough to keep going.
 Final note: “You already have what it takes. And you don’t have to do it alone.”
 
 Invite: What’s one thing you’re taking with you from today?
+
+---
+
+
+
+
+
+
+
+
+Finding and engaging with a community means:
+
+- knowing where to look
+- knowing the different ways to engage
+- knowing where you can contribute and what you can take
+- knowing who you are!
+
+
+---
+
+Potential exercises:
+
+- developing personal brand (focus on what makes you unique! being your authentic self) and how putting yourself out there can help you find community
+- 
+
+
+
+
+
+
+
+
+
+
+
 

@@ -1,0 +1,154 @@
+---
+title: "Untitled"
+format: html
+---
+
+- palisads = a community
+- felt community in undergrad
+- lost it when I graduated bc I no longer knew what i wanted to do
+- had to find a new one in grad school / for DS career 
+
+---
+
+`echo Hello, world!` - finding and fostering your learning community and support network 
+<!-- for a career of growth and happiness -->
+
+---
+
+Thank you so much for that lovely introduction, ___ :) And thank you all for being here—especially so early on a Saturday morning.
+
+---
+
+Again, I’m Sam, and today I want to talk about something that’s deeply meaningful to me: community.
+That might sound a little obvious—maybe even a bit cheesy. Some of you might be thinking, "Sure, we already know community is important. We’re part of one right now."
+
+But I really do believe that community is so foundational to both our personal and professional growth and happiness that it deserves its own 45-minute spotlight.
+
+---
+
+I want to start with a bit of honesty — and maybe even some vulnerability.
+
+This talk was really hard for me to put together. I floundered for what felt like a lifetime.
+
+When Jack and Jessie first asked me to keynote back in December, I was like, "heck yeah!" I’d never been invited to do something like this before—it felt like such an honor. I was also in the thick of prepping for Winter Quarter teaching, so I told myself, “This won't be a problem, I don't quite have time now, but I’ll come back to this in the spring. Tons of time.”
+
+And of course… spring rolled around. Starting a talk is always the hardest part for me, so instead of doing that, I took up a couple other projects, found some new distractions. I kept pushing it off and off until, finally, about three weeks ago, I sat down to make an outline—and came up completely blank.
+
+---
+
+I’d write a few lines. Erase them. Write. Delete. Repeat.
+
+After a frustrating week of this, I turned to my husband and said, “I don’t think I can do this. Why did they even ask me? Out of all the amazing people that could’ve given this talk, why me? What qualifies me, someone who's still fairly early-early, learning as she goes, to stand up here and talk to anyone about anything data science, career, etc.?” I was feeling really really inadequate and incapable.
+
+Has anyone here ever felt that way about something important they had to do?
+
+Yeah. It’s kinda the worst.
+
+---
+
+It took me until two weeks ago to realize what was going on:
+
+I was dealing with a massive case of imposter syndrome!
+
+The irony of that, was I had already planned to include themes about imposter syndrome throughout this talk, because it's huge part of why building and fostering community has been so instrumental to my career growth. And I didn’t even noticed it creeping in. 
+
+---
+
+So today, I want to share some personal stories from my own journey (the ups, the downs, the twists, the turns) and role that community has played in getting to me to where I am now. And throughout, I want to take some time for a bit of small group discussion so that you all can reflecting a bit on who / what you've relied on for support, and where / how you can continue to grow your own networks.
+
+How does that sound?
+
+---
+
+Hope by the end we can all acknowledge the following:
+
+Community provides a safe and supportive space to learn and fail. This is so critical for combating imposters syndrome. Finding and fostering community takes some work, and it's helpful to know yourself and your goals. Consider sharing those in a public way!
+
+---
+
+Growing up, I was a student who knew exactly what she wanted to do when she grew up -- I wanted to be a Marine Biologist (I think it started with a VHS tape I would watch on repeat at my grandparents house that was just a bunch of underwater filmography set to orchestra music).
+
+I was always a book worm, and I did really great in college -- I just really enjoyed studying, I knew how to do it well. I was surprised and bummed when I couldn't find a job when I graduated. I 
+
+---
+
+LESSONS LEARNED: 
+- start with an accountabilibuddy
+  - Sam & An work through R for Data Science
+- imposter syndrome fades in inclusive, supportive spaces
+  - seek them out and contribute back back
+- everyone has something to share and something to learn 
+  - julie lowndes sharing the `{here}` package
+  - putting on the tips & tricks event
+- RELATED: you don't have to be an expert to contribute meaningfully
+  - I'm an early career, new learner. I think this makes me a more impactful educator because I'm often learning things to share with studetns and can recognize potential pitfalls, confusing points, challenges that students will encounter, because I recently encountered them myself
+
+
+---
+
+
+---
+
+-- this is super outside my comfort zone! Currently, my comfort zone is teaching. I love diving into a topic, and sharing that knowledge with folks who are interested in it. I love thinking about creative pedagogical approaches for engaging students in the learning process. Two years though, I would have felt completely out of my element. 
+
+Currently, my comfort zone is teaching -- I love being in front of a class and sharing what I know or what I've learned about a topic that students are excited about. Two years ago, that would absolutely terrfied me. Three years before that, I was just getting comfor
+
+---
+
+Two years ago, I taught my first real big course -- a Data Viz course for the Bren School's MEDS program. And building that course (then teaching it) felt like an insurmoutable task. I definitely cried a couple times, told myself I had no reason to be the one in charge of teaching these graduate students anything about Data Viz.
+
+---
+
+Three years before that, I 
+
+---
+
+Finally, it dawned on me -- I had / still have major imposters syndrome about this event. I had been feeling completely out of my depth. I'm still consider myself in the early stages of my career, without a ton of accomplishments. Why would anyone want to hear from me? And these feelings were completely preventing me from making any forward progress. 
+
+---
+---
+---
+
+I'm Sam! If you had told me a few years ago that I'd be standing here today, I wouldn't have believed you. I spend most of my schooling years being absoltuely terried of all things data and computers
+
+
+---
+
+I was really terrified of all things data and computers. I was really great at being an undergrad -- I knew how to study, and I knew how to work hard, and it just clicked. But when I graduated, I suddenly felt really lost. I applied to a bunch of jobs in the marine sciences, but didn't get interviews for any of them. I ended up taking a job as a receptionist at a doggy daycare and felt directionless. Applied to graduate school, which led me here. I worked on spiny lobster, and was happy to spend time in the field and lab collecting data, but really wasn't looking forward to actually having it all in hand.
+
+I was always "bad at math," almost failed by AP bio class in high school (not because I wasn't trying, but because I was a slow learner)
+
+I had never even heard of the term data science until I was a year into graduate school
+
+photos: 
+- undergrad three seas
+- BBB
+- lobsters / lab
+- allison's class
+
+
+---
+
+mentimeter: what's next? grad school, work, i don't know yet 
+
+---
+
+putting yourself out there can be really scary sometimes
+- I saw julie lowndes do it 
+- I volunteered with my bestie An to do it (I was so scared! someone asked me a question I didn't know the answer to, and I froze; slowly people in the audience all chimed into help answer the question collectively)
+
+Include pic of Sam / An
+
+---
+
+RLadies rotating curator
+- led me to build my first map
+
+
+---
+
+So how can you prepare yourself to best engage with online communities?
+
+- You've built your personal websites, now infuse them with YOU! develop your personal brand 
+
+
