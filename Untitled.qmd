@@ -10,8 +10,7 @@ format: html
 
 ---
 
-`echo Hello, world!` - finding and fostering your learning community and support network 
-<!-- for a career of growth and happiness -->
+`Hello, world!` - finding and fostering your learning community and support network 
 
 ---
 
@@ -38,7 +37,7 @@ And of course… spring rolled around. Starting a talk is always the hardest par
 
 I’d write a few lines. Erase them. Write. Delete. Repeat.
 
-After a frustrating week of this, I turned to my husband and said, “I don’t think I can do this. Why did they even ask me? Out of all the amazing people that could’ve given this talk, why me? What qualifies me, someone who's still fairly early-early, learning as she goes, to stand up here and talk to anyone about anything data science, career, etc.?” I was feeling really really inadequate and incapable.
+After a frustrating week of this, I turned to my husband and said, “I don’t think I can do this. Why did they even ask me? Out of all the amazing people that could’ve given this talk, why me? What qualifies me, someone who's still fairly early-early, absolutely learning as I goes, to stand up here and talk to anyone about anything data science, career, etc.?” I was feeling really really inadequate and incapable.
 
 Has anyone here ever felt that way about something important they had to do?
 
@@ -54,15 +53,115 @@ The irony of that, was I had already planned to include themes about imposter sy
 
 ---
 
-So today, I want to share some personal stories from my own journey (the ups, the downs, the twists, the turns) and role that community has played in getting to me to where I am now. And throughout, I want to take some time for a bit of small group discussion so that you all can reflecting a bit on who / what you've relied on for support, and where / how you can continue to grow your own networks.
+So today, I want to share some personal stories from my own journey (the ups, the downs, the twists, the turns) and role that community has played in getting to me to where I am now. And throughout, I want to take some time for a bit of small group discussion so that you can reflect on the people, spaces, and networks that have supported you—and the ones you might want to nurture next.
 
 How does that sound?
+
+---
+
+I want to pause here real quick though, and ask you all, 
+
+"What communities are you currently a part of?" (don't need to be professional or academic communities)
+"What about those communities are most impactful or important to you, and why?"
+"Are there particular aspects of those communities that you'd like to seek out in your professional communities?"
+
+I'll start: I never liked working out at the gym, mostly because I was intimidated. I used to run a lot, but I've had a couple surgeries that prevent me from doing that anymore. Back in 2022, I joined our local Y and started taking classes. Those classes are full of regulars who become your fast friends. When someone misses more than 1 day, they're all asking if you're okay. They motivate me to get myself there regularly, to lift heavier and push myself to get stronger. I love that about them. If I were to try that at home, I would not be where I am today.
+
+Okay your turn! (think-pair-share)
+
+---
+
+I ended up in grad school bc I didn't know what to do when I finished undergrad. Loved college and did well. Pursued a degree in Marine Biology and thought I knew exactly what I wanted from life. Graduated and realized I was totally lost. I was unsuccessful in landing a job related to my degree, so ended up working as a receptionist in a doggy daycare for a year. I finally took the leap and ended up here at UCSB -- didn't know what I was doing, only applied here because I knew one of the new faculty from one of my undergraduate courses. I was excited about field and lab work -- my thesis explored temperature effects on spiny lobster metabolism and foraging behavior. It was quite theoretical and I really did not look forward to getting my hands on my own data. I came in with 0 programming experience and hadn't taken a stats class in years. During my first week, my advisor handed me some long-term temperature data collected at one of our coastal rocky reef sites here in Santa Barbara (Mohawk, for anyone who's familiar) and asked for some summary stats and basic data viz. WHAT. It took me a literal month to figure out how to install and configure R / RStudio and read in a csv file. Seems almost unimaginable now. But I felt absolutely defeated. How was I going to survive an entire Master's degree???
+
+---
+
+Lesson 1: The first big step is the hardest -- make it a baby step!
+
+My friend An and I decided to pair up as accountabilibuddies and meet weekly to work through R for Data Science -- kinda the bible for budding R users.
+
+https://r4ds.had.co.nz/
+https://r4ds.hadley.nz/
+
+[show pick of github repo, both editions of book]
+
+---
+
+It was around this time that I was able to enroll in my first real course. My department didn't offer any in-house courses on programming, but I begged the Bren School (where I now work) to let me into Allison Horst's Statistics and Data Analysis in Environmental Science course. She did! and within a day, my world was changed. This was the first time I had ever heard the term "Data Science", and Allison showed me that was not only approachable, but perhaps even fun?? 
+
+---
+
+Lesson 2: Join an organized community
+
+R-Ladies global org with local chapters. But there are others all over the place.
+Started in 2018. What it made me realize was that I was not alone. All the attendees were also beginning their journeys and looking for others intersted in learning together.
+
+They can also look different from this: 
+- TidyTuesday coding club
+- NCEAS Coding Club & Hacky Hours https://github.com/nceas-coding-club
+
+Sometimes organized content, other times it was just an opportunity to work on your own thing with others around you
+
+---
+
+Lesson 3: or create your own (and try to keep it simple, for your own sanity)
+
+"#tidytuesday offers a no-stress, low-effort coding club option for organizers"
+
+> Figure out the goals of your coding club first, try to anticipate the level of most attendees, and choose a format that will set them up to meet those goals.
+
+https://openscapes.org/blog/2019-05-02-tidy-tuesday-coding-club/
+
+important to foster spaces that invite others in
+
+---
+
+Lesson 4: Volunteer to present, even when you don't feel "ready"
+
+- Julie Lowndes talking about `{here}` inspired An and I to give a workshop on the `{tidyverse}`
+
+---
+
+Lesson 5: (related) everyone has something to learn and to share
+
+Tips & Tricks event during covid
+
+---
+
+<!-- --- -->
+
+<!-- It took me a while to figure out what I wanted professionally. And even longer to understand the power of community. For a while, I felt like I was just… drifting. -->
+
+<!-- --- -->
+
+<!-- My journey, like many of yours, starts in undergrad -- for as long I can remember, I wanted to be a marine biologist (I've been told that's a millennial thing, that we all wanted to be marine biologists).  -->
+
+<!-- I honestly did really great in college -- I knew how to study, I got good grades, I landed a couple really cool research opportunities. I felt on top of the world.  -->
+
+<!-- Then I graduated. And it was like someone flipped a switch. Suddenly, I felt SO lost. I applied to countless jobs and didn't get an interview for any of them. I started questioning everything. -->
+
+<!-- --- -->
+
+<!-- I needed a paycheck, so I took a minimum wage job as a receptionist at a doggy daycare. It was… not my dream job. I didn’t know how to get from there to anywhere else. -->
+
+<!-- Eventually, I took a minimum wage job working as a receptionist at a doggy daycare. It was rough, I didn't enjoy it and I didn't know how to move forward. I did not enjoy my time there, and I did not know how to really get myself out of it. A lecturer I had in one of my undergraduate marine bio courses that I looked up to a lot and kept in touch with over the years let me know he was joining faculty at UCSB in the EEMB department. I didn't know why I wanted to go to grad school or what I might do with a graduate degree. But I didn't know what other next step to take. No one in my family had gone to graduate school before, I didn't have any friends who were pursuing grad school at the time, and I just didn't really know what I was doing. Applied just to UCSB with the intention of doing a PhD, switched to Masters during the application process, applied to a bunch of fellowships and didn't get any of them. All of my lab mates did. I felt totally out of place.  -->
+
+<!-- --- -->
+
+<!-- And then I realized I didn't enjoy research, or at least the research I was doing -- super theoretical. I did enjoy getting to spend time in the field and lab. But was terrified of actually finally getting data in hand bc what the heck was I going to do with it at that point. I hadn't taken a stats course in a long while, I didn't know the first thing about programming. I was handed some long-term temperature data collected at some rocky reef sites here off SB and it took me a whole month to figure out how to download and install R/RStudio and how to read in a CSV file. Woof. I was feeling so out of place. -->
+
+---
+
+
 
 ---
 
 Hope by the end we can all acknowledge the following:
 
 Community provides a safe and supportive space to learn and fail. This is so critical for combating imposters syndrome. Finding and fostering community takes some work, and it's helpful to know yourself and your goals. Consider sharing those in a public way!
+
+---
+
+- put yourself out there (online, show up to a social group gathering, organize co-learning sessions with colleagues or classmates, tidytuesday)
 
 ---
 
@@ -73,8 +172,6 @@ I was always a book worm, and I did really great in college -- I just really enj
 ---
 
 LESSONS LEARNED: 
-- start with an accountabilibuddy
-  - Sam & An work through R for Data Science
 - imposter syndrome fades in inclusive, supportive spaces
   - seek them out and contribute back back
 - everyone has something to share and something to learn 
@@ -99,13 +196,6 @@ Two years ago, I taught my first real big course -- a Data Viz course for the Br
 
 ---
 
-Three years before that, I 
-
----
-
-Finally, it dawned on me -- I had / still have major imposters syndrome about this event. I had been feeling completely out of my depth. I'm still consider myself in the early stages of my career, without a ton of accomplishments. Why would anyone want to hear from me? And these feelings were completely preventing me from making any forward progress. 
-
----
 ---
 ---
 
